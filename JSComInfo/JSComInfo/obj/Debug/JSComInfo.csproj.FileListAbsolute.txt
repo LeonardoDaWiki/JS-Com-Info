@@ -1,0 +1,14 @@
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\bin\Debug\JSComInfo.exe.config
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\bin\Debug\JSComInfo.exe.manifest
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\bin\Debug\JSComInfo.application
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\bin\Debug\JSComInfo.exe
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\bin\Debug\JSComInfo.pdb
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.Form1.resources
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.Form2.resources
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.Properties.Resources.resources
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.csproj.GenerateResource.Cache
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.TrustInfo.xml
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.exe.manifest
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.application
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.exe
+C:\Users\jonny\Google Drive\Privat\Programme\JSComInfo\JSComInfo\obj\Debug\JSComInfo.pdb
